@@ -17,3 +17,8 @@ print(str.capitalize())
 str = "hero"
 replaced_string = str.replace("h", "z")
 print(replaced_string) # Output: "zero"
+
+
+#Escape sequences characters
+str = "\\abhisek"
+print(str,"\'developer\t\n\\coder")
